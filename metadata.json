@@ -1,0 +1,8 @@
+{
+  "name": "Ada Santos Hair Creative",
+  "description": "Premium booking and admin management system for Ada Santos Hair Creative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
